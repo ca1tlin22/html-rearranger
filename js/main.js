@@ -22,4 +22,4 @@ $('ul li').each(function () {
   } else {
     $aboveList.append($(this));
   }
-})
+});
